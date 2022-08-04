@@ -2,3 +2,20 @@
     background-image: url(/bgd.gif);
     background-size: cover;
 }
+
+.characterOne{
+    width: 200px;
+    height: 200px;
+    object-fit: contain;
+    position: absolute;
+    bottom: 30px;
+    left: 350px;
+}
+.characterTwo{
+    width: 200px;
+    height: 200px;
+    object-fit: contain;
+    position: absolute;
+    bottom: 30px;
+    right: 350px;
+}
