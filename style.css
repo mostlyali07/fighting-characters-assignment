@@ -5,14 +5,14 @@
 
 .main {
     background-image: url(/bgd.gif);
+    opacity: 0.8;
     background-size: cover;
     background-position: center;
     height: 100vh;
 }
-
 .characterOne {
-    width: 250px;
-    height: 250px;
+    width: 270px;
+    height: 270px;
     object-fit: contain;
     position: absolute;
     bottom: 30px;
@@ -20,8 +20,8 @@
 }
 
 .characterTwo {
-    width: 250px;
-    height: 250px;
+    width: 270px;
+    height: 270px;
     object-fit: contain;
     position: absolute;
     bottom: 30px;
